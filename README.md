@@ -103,8 +103,6 @@ http://localhost/Cafe-Management-System
 
 * Automatic bill generation
 * Order total calculation
-* Payment tracking
-
 
 ## 🤝 Contributing
 
